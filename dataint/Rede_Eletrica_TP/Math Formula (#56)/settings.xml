@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="append_column" type="xboolean" value="false"/>
         <entry key="replaced_column" type="xstring" value="percentagem_led"/>
-        <entry key="expression" type="xstring" value="$Sum(luminariass)LED$/$Sum(luminariass)$"/>
+        <entry key="expression" type="xstring" value="$luminariassLED$/$luminariass$"/>
         <entry key="convert_to_int" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -38,6 +38,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0f7b8b61-baad-4d44-919b-dc8ee365acf0"/>
+        <entry key="file_store_id" type="xstring" value="91d836ed-e9cf-42cb-bffa-17025ca6c2ec"/>
     </config>
 </config>

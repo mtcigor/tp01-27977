@@ -26,7 +26,7 @@
                 <config key="path">
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                    <entry key="path" type="xstring" value="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\freguesias.xlsx"/>
+                    <entry key="path" type="xstring" value="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\input\freguesias.xlsx"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -72,7 +72,7 @@
         <config key="table_spec_config_Internals">
             <entry key="version" type="xstring" value="V4_4"/>
             <config key="individual_specs">
-                <config key="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\freguesias.xlsx">
+                <config key="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\input\freguesias.xlsx">
                     <entry key="num_columns" type="xint" value="1"/>
                     <config key="0">
                         <entry key="name" type="xstring" value="empty_C"/>
@@ -120,11 +120,11 @@
                 <entry key="column_filter_mode" type="xstring" value="UNION"/>
                 <config key="unknown_columns_transformation">
                     <entry key="position" type="xint" value="1"/>
-                    <entry key="keep" type="xboolean" value="true"/>
+                    <entry key="keep" type="xboolean" value="false"/>
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\freguesias.xlsx"/>
+            <entry key="source_group_id" type="xstring" value="C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\input\freguesias.xlsx"/>
             <config key="config_id">
                 <config key="excel_reader">
                     <config key="settings">
@@ -187,6 +187,17 @@
             </config>
         </config>
     </config>
+    <config key="variables">
+        <entry key="version" type="xstring" value="V_2019_09_13"/>
+        <config key="tree">
+            <config key="settings">
+                <config key="sheet_name">
+                    <entry key="used_variable" type="xstring" value="knime.workspace"/>
+                    <entry key="exposed_variable" type="xstring" isnull="true" value=""/>
+                </config>
+            </config>
+        </config>
+    </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Freguesias Barcelos"/>
         <entry key="contentType" type="xstring" value="text/plain"/>
@@ -233,6 +244,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="82f9c1f6-3466-4044-a74d-7206d7d667b6"/>
+        <entry key="file_store_id" type="xstring" value="8f7e9ed6-7dc8-471c-bb97-e0f0bfc7c29c"/>
     </config>
 </config>

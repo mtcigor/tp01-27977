@@ -398,19 +398,19 @@
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Doméstico"/>
+                        <entry key="StringCell" type="xstring" value="Iluminação Pública"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Outros"/>
+                        <entry key="StringCell" type="xstring" value="Doméstico"/>
                     </config>
                 </config>
                 <config key="3">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Iluminação Pública"/>
+                        <entry key="StringCell" type="xstring" value="Outros"/>
                     </config>
                 </config>
             </config>
@@ -419,7 +419,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="Sum(cpess)"/>
+        <entry key="column_name" type="xstring" value="cpess"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -430,13 +430,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="2"/>
+                    <entry key="IntCell" type="xint" value="5"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="23044"/>
+                    <entry key="IntCell" type="xint" value="24768"/>
                 </config>
             </config>
         </config>

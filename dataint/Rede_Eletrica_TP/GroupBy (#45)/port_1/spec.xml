@@ -37,7 +37,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_1">
-        <entry key="column_name" type="xstring" value="Sum(numero_de_instalacoess)"/>
+        <entry key="column_name" type="xstring" value="numero_de_instalacoess"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -54,7 +54,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="55311"/>
+                    <entry key="IntCell" type="xint" value="55445"/>
                 </config>
             </config>
         </config>

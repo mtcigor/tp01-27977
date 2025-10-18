@@ -49,7 +49,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="columnNamePolicy" type="xstring" value="Aggregation method (column name)"/>
+        <entry key="columnNamePolicy" type="xstring" value="Keep original name(s)"/>
         <config key="aggregationColumn">
             <config key="columnNames">
                 <entry key="array-size" type="xint" value="1"/>
@@ -133,6 +133,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="969ea002-037b-4527-bbf5-dd5e2e9d01c7"/>
+        <entry key="file_store_id" type="xstring" value="16be6750-1203-4231-9b2f-3c03a8f10762"/>
     </config>
 </config>

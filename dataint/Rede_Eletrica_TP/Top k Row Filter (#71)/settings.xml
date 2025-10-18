@@ -9,7 +9,7 @@
         <config key="sortingCriteria">
             <config key="0">
                 <config key="columnV2">
-                    <entry key="regularChoice" type="xstring" value="Sum(Sum(cpess))"/>
+                    <entry key="regularChoice" type="xstring" value="cpess"/>
                     <entry key="specialChoice_Internals" type="xstring" isnull="true" value=""/>
                 </config>
                 <entry key="sortingOrder" type="xstring" value="DESCENDING"/>
@@ -49,6 +49,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="63a5c958-6edd-4b43-9495-d919834e2dac"/>
+        <entry key="file_store_id" type="xstring" value="787c3519-4de0-46cd-92e1-bce31d239c9e"/>
     </config>
 </config>

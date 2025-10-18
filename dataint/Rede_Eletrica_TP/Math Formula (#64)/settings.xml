@@ -8,7 +8,7 @@
     <config key="model">
         <entry key="append_column" type="xboolean" value="false"/>
         <entry key="replaced_column" type="xstring" value="media_por_posto"/>
-        <entry key="expression" type="xstring" value="$Sum(potencia_maxima_admissivels)$/$Sum(num_instalacoess)$"/>
+        <entry key="expression" type="xstring" value="$potencia_maxima_admissivels$/$num_instalacoess$"/>
         <entry key="convert_to_int" type="xboolean" value="false"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -38,6 +38,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="dbf23ea2-f2bf-471c-bb77-9cb72cbeeac3"/>
+        <entry key="file_store_id" type="xstring" value="fac237ac-6217-4a31-a048-586eef979891"/>
     </config>
 </config>

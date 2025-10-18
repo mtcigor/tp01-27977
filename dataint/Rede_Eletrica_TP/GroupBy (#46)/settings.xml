@@ -49,7 +49,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="columnNamePolicy" type="xstring" value="Aggregation method (column name)"/>
+        <entry key="columnNamePolicy" type="xstring" value="Keep original name(s)"/>
         <config key="aggregationColumn">
             <config key="columnNames">
                 <entry key="array-size" type="xint" value="1"/>
@@ -112,12 +112,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 239, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 238, Cols: 3"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ef280825-d16a-4610-a3f7-7a5e9fcdceeb"/>
+        <entry key="file_store_id" type="xstring" value="0b2ff0e1-bc81-42c6-8767-0402e6bb2845"/>
     </config>
 </config>

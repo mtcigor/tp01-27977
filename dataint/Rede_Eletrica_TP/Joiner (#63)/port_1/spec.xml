@@ -97,7 +97,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_1">
-        <entry key="column_name" type="xstring" value="Sum(num_instalacoess)"/>
+        <entry key="column_name" type="xstring" value="num_instalacoess"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -122,7 +122,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="Sum(potencia_maxima_admissivels)"/>
+        <entry key="column_name" type="xstring" value="potencia_maxima_admissivels"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>

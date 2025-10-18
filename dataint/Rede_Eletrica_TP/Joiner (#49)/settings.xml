@@ -32,12 +32,12 @@
             </config>
             <config key="manualFilter">
                 <config key="manuallySelected">
-                    <entry key="array-size" type="xint" value="2"/>
-                    <entry key="0" type="xstring" value="freguesias"/>
-                    <entry key="1" type="xstring" value="Sum(Sum(cpess))"/>
+                    <entry key="array-size" type="xint" value="1"/>
+                    <entry key="0" type="xstring" value="cpess"/>
                 </config>
                 <config key="manuallyDeselected">
-                    <entry key="array-size" type="xint" value="0"/>
+                    <entry key="array-size" type="xint" value="1"/>
+                    <entry key="0" type="xstring" value="freguesias"/>
                 </config>
                 <entry key="includeUnknownColumns" type="xboolean" value="false"/>
             </config>
@@ -57,7 +57,7 @@
             <config key="manualFilter">
                 <config key="manuallySelected">
                     <entry key="array-size" type="xint" value="1"/>
-                    <entry key="0" type="xstring" value="Sum(numero_de_instalacoess)"/>
+                    <entry key="0" type="xstring" value="numero_de_instalacoess"/>
                 </config>
                 <config key="manuallyDeselected">
                     <entry key="array-size" type="xint" value="1"/>
@@ -103,7 +103,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 60, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 60, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -127,6 +127,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="bd7e2641-4993-449e-a24a-e9d7673549b0"/>
+        <entry key="file_store_id" type="xstring" value="cd47e35b-81aa-4060-92b0-7f2bf0d20831"/>
     </config>
 </config>

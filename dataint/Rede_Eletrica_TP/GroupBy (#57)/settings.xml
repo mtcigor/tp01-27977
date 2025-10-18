@@ -18,7 +18,7 @@
             <config key="ExclList">
                 <entry key="array-size" type="xint" value="2"/>
                 <entry key="0" type="xstring" value="freguesias"/>
-                <entry key="1" type="xstring" value="Sum(cpess)"/>
+                <entry key="1" type="xstring" value="cpess"/>
             </config>
             <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
         </config>
@@ -46,11 +46,11 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="columnNamePolicy" type="xstring" value="Aggregation method (column name)"/>
+        <entry key="columnNamePolicy" type="xstring" value="Keep original name(s)"/>
         <config key="aggregationColumn">
             <config key="columnNames">
                 <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="Sum(cpess)"/>
+                <entry key="0" type="xstring" value="cpess"/>
             </config>
             <config key="columnTypes">
                 <entry key="array-size" type="xint" value="1"/>
@@ -115,6 +115,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="a354e688-7a2a-4a73-a552-c0eab4e1b85a"/>
+        <entry key="file_store_id" type="xstring" value="4141e397-79ec-4187-afed-3f649cdff020"/>
     </config>
 </config>
