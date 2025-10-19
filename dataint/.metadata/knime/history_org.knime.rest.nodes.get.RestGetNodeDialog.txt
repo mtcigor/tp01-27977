@@ -1,0 +1,3 @@
+
+https://e-redes.opendatasoft.com/api/explore/v2.1/catalog/datasets/postos_carregamento_ves/records?where=concelho%20like%20%22Barcelos%22%20and%20trimestre%20like%20%222025T2%22&limit=50
+https://www.google.com

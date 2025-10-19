@@ -1,0 +1,5 @@
+C:\Users\mtcig\Documents\potencia_maxima_feguesia.svg
+C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\output\media_potencia_posto.svg
+C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\output\pontos_intalacao_por_freguesia.svg
+image
+knime.workflow

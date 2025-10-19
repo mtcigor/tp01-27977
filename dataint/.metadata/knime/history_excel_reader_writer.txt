@@ -1,0 +1,3 @@
+C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tp01-27977\data\input\freguesias.xlsx
+C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\tipo_consumidor_2023.xlsx
+C:\Users\mtcig\OneDrive - Instituto Politécnico do Cávado e do Ave\3º Ano\Integração de Sistemas de Informação\TP_1\freguesias.xlsx

@@ -1,0 +1,662 @@
+!SESSION 2025-10-10 16:43:25.749 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-10 16:44:10.484
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-10 16:44:10.488
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-11 19:50:57.882 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-11 19:52:41.409
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-11 19:52:42.695
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-12 12:38:35.634 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-12 12:39:47.628
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-12 12:39:47.630
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-13 09:09:42.171 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 09:11:24.335
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 09:11:24.340
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-13 10:11:01.360 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 10:11:45.859
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 10:11:45.866
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-13 10:16:20.007 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 10:17:46.248
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-13 10:17:46.263
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-14 16:27:41.229 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-14 16:29:05.221
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-14 16:29:05.227
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-17 11:10:03.492 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-17 11:11:56.509
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-17 11:11:56.514
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-17 16:19:14.148 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-17 16:20:51.928
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-17 16:20:51.932
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-18 20:46:40.728 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.423
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ant.ui.views.AntView" id and the "Ant" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.429
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.lib.explorer.view" id and the "Resource Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.433
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.views.data.DataView" id and the "Data Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.435
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.attributes.AttributeView" id and the "Property Editor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.438
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" id and the "Data Source Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.444
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.plan.planView" id and the "Execution Plan" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.460
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.result.resultView" id and the "SQL Results" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.462
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.debug.ui.DisplayView" id and the "Debug Shell" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.463
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.junit.ResultView" id and the "JUnit" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.465
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.PackageExplorer" id and the "Package Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.481
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.TypeHierarchy" id and the "Type Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.486
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.ProjectsView" id and the "Projects" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.488
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.PackagesView" id and the "Packages" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.490
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.TypesView" id and the "Types" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.493
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.MembersView" id and the "Members" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.496
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.callhierarchy.view" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.502
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.texteditor.TemplatesView" id and the "Templates" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.504
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.SourceView" id and the "Declaration" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.506
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.JavadocView" id and the "Javadoc" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.508
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.509
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.511
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.512
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.513
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-18 20:48:07.515
+!MESSAGE Removing PartDescriptorImpl with the "org.knime.reporting.designer.view.dataset.explorer" id and the "Data Sets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-18 20:48:22.452
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-18 20:48:22.455
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-18 23:35:32.107 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-18 23:35:52.995
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-18 23:35:53.002
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-19 10:20:10.411 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 10:23:48.771
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 10:23:48.775
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-19 15:09:31.276 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.662
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ant.ui.views.AntView" id and the "Ant" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.664
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.lib.explorer.view" id and the "Resource Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.666
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.views.data.DataView" id and the "Data Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.668
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.birt.report.designer.ui.attributes.AttributeView" id and the "Property Editor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.670
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" id and the "Data Source Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.673
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.plan.planView" id and the "Execution Plan" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.674
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.result.resultView" id and the "SQL Results" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.676
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.debug.ui.DisplayView" id and the "Debug Shell" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.677
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.junit.ResultView" id and the "JUnit" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.678
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.PackageExplorer" id and the "Package Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.679
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.TypeHierarchy" id and the "Type Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.681
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.ProjectsView" id and the "Projects" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.682
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.PackagesView" id and the "Packages" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.683
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.TypesView" id and the "Types" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.684
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.MembersView" id and the "Members" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.687
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.callhierarchy.view" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.688
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.texteditor.TemplatesView" id and the "Templates" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.690
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.SourceView" id and the "Declaration" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.691
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jdt.ui.JavadocView" id and the "Javadoc" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.693
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.694
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.696
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.698
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.699
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2025-10-19 15:10:22.701
+!MESSAGE Removing PartDescriptorImpl with the "org.knime.reporting.designer.view.dataset.explorer" id and the "Data Sets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 15:10:27.855
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 15:10:27.862
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-19 16:16:51.504 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 16:17:09.911
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 16:17:09.915
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-19 16:25:58.035 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 16:26:17.493
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 16:26:17.495
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+!SESSION 2025-10-19 17:30:58.649 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_PT
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 17:31:18.959
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2025-10-19 17:31:18.961
+!MESSAGE Exception during event notification
+!STACK 0
+java.lang.IllegalArgumentException: Location must be absolute: ..
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.checkValidLocation(AbstractRepositoryManager.java:772)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.contains(AbstractRepositoryManager.java:265)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:167)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.notify(AbstractRepositoryManager.java:841)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:103)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
