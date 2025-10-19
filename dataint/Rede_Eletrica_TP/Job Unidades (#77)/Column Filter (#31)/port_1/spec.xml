@@ -38,13 +38,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Não Atribuído"/>
+                        <entry key="StringCell" type="xstring" value="Solar"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Solar"/>
+                        <entry key="StringCell" type="xstring" value="Não Atribuído"/>
                     </config>
                 </config>
             </config>

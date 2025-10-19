@@ -22,7 +22,7 @@
             <config key="manualFilter">
                 <config key="manuallySelected">
                     <entry key="array-size" type="xint" value="1"/>
-                    <entry key="0" type="xstring" value="Sum(potencia_maxima_admissivels)"/>
+                    <entry key="0" type="xstring" value="potencia_maxima_admissivels"/>
                 </config>
                 <config key="manuallyDeselected">
                     <entry key="array-size" type="xint" value="0"/>
@@ -128,6 +128,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e5d65094-db46-4680-8ff0-052d8ec1b366"/>
+        <entry key="file_store_id" type="xstring" value="f15e550f-5bba-484b-9137-17e316c5eea5"/>
     </config>
 </config>

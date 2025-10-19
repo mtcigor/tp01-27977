@@ -283,7 +283,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Tue, 14 Oct 2025 15:31:31 GMT"/>
+                        <entry key="StringCell" type="xstring" value="Sun, 19 Oct 2025 15:19:20 GMT"/>
                     </config>
                 </config>
             </config>
@@ -437,7 +437,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="16586686051779834518"/>
+                        <entry key="StringCell" type="xstring" value="2156742024198775715"/>
                     </config>
                 </config>
             </config>
@@ -503,7 +503,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4911"/>
+                        <entry key="StringCell" type="xstring" value="4665"/>
                     </config>
                 </config>
             </config>
@@ -525,7 +525,7 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="2025-10-15 00:00:00+00:00"/>
+                        <entry key="StringCell" type="xstring" value="2025-10-20 00:00:00+00:00"/>
                     </config>
                 </config>
             </config>
@@ -625,19 +625,19 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="05"/>
+                        <entry key="StringCell" type="xstring" value="02"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="01"/>
+                        <entry key="StringCell" type="xstring" value="03"/>
                     </config>
                 </config>
                 <config key="2">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="02"/>
+                        <entry key="StringCell" type="xstring" value="05"/>
                     </config>
                 </config>
                 <config key="3">
@@ -649,7 +649,7 @@
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="03"/>
+                        <entry key="StringCell" type="xstring" value="01"/>
                     </config>
                 </config>
                 <config key="5">
@@ -699,13 +699,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Baixa Tensão"/>
+                        <entry key="StringCell" type="xstring" value="Muito Alta, Alta e Média Tensões"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Muito Alta, Alta e Média Tensões"/>
+                        <entry key="StringCell" type="xstring" value="Baixa Tensão"/>
                     </config>
                 </config>
             </config>

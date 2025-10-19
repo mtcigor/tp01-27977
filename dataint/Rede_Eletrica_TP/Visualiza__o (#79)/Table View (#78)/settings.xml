@@ -22,8 +22,8 @@
                 </config>
                 <config key="manuallyDeselected">
                     <entry key="array-size" type="xint" value="2"/>
-                    <entry key="0" type="xstring" value="Sum(Sum(cpess))"/>
-                    <entry key="1" type="xstring" value="Sum(numero_de_instalacoess)"/>
+                    <entry key="0" type="xstring" value="cpess"/>
+                    <entry key="1" type="xstring" value="numero_de_instalacoess"/>
                 </config>
                 <entry key="includeUnknownColumns" type="xboolean" value="false"/>
             </config>
@@ -103,6 +103,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e760879f-a5e4-4ba3-aefb-90fe80df6e93"/>
+        <entry key="file_store_id" type="xstring" value="f3ec4d0f-062c-4055-94fc-fd912465b60d"/>
     </config>
 </config>
