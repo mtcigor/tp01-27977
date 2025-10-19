@@ -19,7 +19,7 @@ Link repositório: https://github.com/mtcigor/tp01-27977
 3. Abra o KNIME.
 4. Importe o workflow:
    - Browse
-   - Selecione e aponte para a pasta do workflow deste repositório.
+   - Selecione e aponte para a pasta do workflow deste repositório **(selecione a pasta dataint)**.
 5.  Ajuste caminhos do excel
      - Atualize o nó de leitura do “Excel Reader” para apontar para a localização dos dados no seu ambiente.
 6. Execute o workflow:
@@ -30,9 +30,10 @@ Link repositório: https://github.com/mtcigor/tp01-27977
 .
 ├── data/
 │   └── input/        # Ficheiro excel com as freguesias de Portugal
-├── dataint/
-│    └──Rede_Eletrica_TP/ #Pasta que contêm o KNIME Workflow 
+├── dataint/          #Pasta que contêm o KNIME Workflow 
+│    └──Rede_Eletrica_TP/ 
 │       
 └── doc/            # Relatório do Trabalho Prático
 └── README.md/      # Ficheiro com informações sobre o repositório
 ```
+
